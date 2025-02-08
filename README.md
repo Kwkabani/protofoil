@@ -56,6 +56,3 @@ Distributed under the [license name] License. See `LICENSE` for more information
 
 For any inquiries, please contact the repository owner via their [GitHub profile](https://github.com/Kwkabani).
 
-```
-
-You can customize the sections further based on the specific details and requirements of your project. Let me know if you need any additional adjustments!
